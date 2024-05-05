@@ -62,3 +62,6 @@ python run_heteromorpheus_N.py --env-name "Walker-v0" --algo ppo --use-gae --lr 
 ## Hyperparameter
 
 The meaning and values of the hyperparameters required for experimental running can be found in examples/ppo/arguments.py
+
+## Training Result
+
