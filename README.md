@@ -65,6 +65,11 @@ The meaning and values of the hyperparameters required for experimental running 
 
 ## Training Result
 
+![train](images/train.png)
+
+## Zero-shot and Transfer Learning Result
+
+![zero](images/zero.png)
 
 ## Citation
 If you find this code useful, please consider citing:
