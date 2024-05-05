@@ -65,3 +65,17 @@ The meaning and values of the hyperparameters required for experimental running 
 
 ## Training Result
 
+
+## Citation
+If you find this code useful, please consider citing:
+
+```
+@article{
+    hao2024HeteroMorpheus,
+    title={HeteroMorpheus: Universal Control Based on Morphological Heterogeneity Modeling},
+    author={YiFan Hao, Yang Yang and Junru Song, Wei Peng and Weien Zhou, Tingsong Jiang and Wen Yao},
+    journal={International Joint Conference on Neural Networks},
+    year={2024},
+}
+
+```
