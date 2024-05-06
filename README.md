@@ -65,9 +65,13 @@ The meaning and values of the hyperparameters required for experimental running 
 
 ## Training Result
 
+This is the training curves of different methods in each environment. We evaluate on 5 different seeds and plot the mean of average returns over all morphologies. Shaded regions denotes standard deviation.
+
 ![train](images/train.png)
 
 ## Zero-shot and Transfer Learning Result
+
+The graph presents the results of both zero-shot learning and fine-tuning, obtained through five repeated experiments. Shaded regions denotes standard deviation
 
 ![zero](images/zero.png)
 
