@@ -79,7 +79,7 @@ The graph presents the results of both zero-shot learning and fine-tuning, obtai
 If you find this code useful, please consider citing:
 
 ```
-@article{
+@inproceedings{
     hao2024HeteroMorpheus,
     title={HeteroMorpheus: Universal Control Based on Morphological Heterogeneity Modeling},
     author={YiFan Hao, Yang Yang and Junru Song, Wei Peng and Weien Zhou, Tingsong Jiang and Wen Yao},
